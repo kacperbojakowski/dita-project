@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_wystepowanie_i_srodowisko">
+    <title>Cat breeds</title>
+    <shortdesc>Cats come in different shapes and sizes.</shortdesc>
+    <conbody>
+        <p>There are many breeds of cats, for example:</p>
+        <ul id="ul_qfq_3rt_zsb">
+            <li>Ragdoll</li>
+            <li>Sphynx</li>
+            <li>Devon Rex</li>
+            <li>Normal freaking cat (a.k.a. "mog")</li>
+        </ul>
+        <fig id="fig_q2q_g35_zsb">
+            <title>Cats do commit incest. Here: an inbred cat.</title>
+            <image href="../images/cat_bread.jpg" id="image_r2q_g35_zsb" width="500px">
+                <alt>Cats do commit incest. Here: an inbred cat.</alt>
+            </image>
+        </fig>
+    </conbody>
+</concept>

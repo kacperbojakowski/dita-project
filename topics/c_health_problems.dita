@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_health_problems">
+    <title>Health problems</title>
+    <shortdesc>As a cat owner, you might need to visit a doctor sometimes.</shortdesc>
+    <conbody>
+        <p>The most common cat-related health problems are skin conditions, allergies, and neurotic
+            disorders.</p>
+    </conbody>
+</concept>

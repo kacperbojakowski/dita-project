@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Kiirama\Desktop\kacper-bojakowski\temp?><?workdir-uri file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/temp/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Map//EN?><?doctype-system map.dtd?><map xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Cats – User Guide</title>
+    <topicmeta class="- map/topicmeta " xtrc="topicmeta:1;5:16" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+        <author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</author>
+        <copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap" year="2022"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</copyrholder>
+        </copyright>
+        <critdates class="- topic/critdates " xtrc="critdates:1;11:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <created class="- topic/created " date="2022/03" xtrc="created:1;12:38" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"/>
+        </critdates>
+    </topicmeta>
+    <topicref class="- map/topicref " href="topics/c_general_information.dita" xtrc="topicref:1;15:57" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"><topicmeta class="- map/topicmeta "><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap" year="2022"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;11:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <created class="- topic/created " date="2022/03" xtrc="created:1;12:38" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"/>
+        </critdates></topicmeta></topicref>
+    <topicref class="- map/topicref " href="topics/c_cat_breeds.dita" xtrc="topicref:2;16:48" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"><topicmeta class="- map/topicmeta "><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap" year="2022"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;11:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <created class="- topic/created " date="2022/03" xtrc="created:1;12:38" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"/>
+        </critdates></topicmeta></topicref>
+    <topicref class="- map/topicref " href="topics/c_how_to_get_a_cat.dita" xtrc="topicref:3;17:54" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"><topicmeta class="- map/topicmeta "><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap" year="2022"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;11:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <created class="- topic/created " date="2022/03" xtrc="created:1;12:38" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"/>
+        </critdates></topicmeta></topicref>
+    <topicref class="- map/topicref " href="topics/c_maintenance_cost.dita" xtrc="topicref:4;18:54" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"><topicmeta class="- map/topicmeta "><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap" year="2022"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;11:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <created class="- topic/created " date="2022/03" xtrc="created:1;12:38" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"/>
+        </critdates></topicmeta></topicref>
+    <topicref class="- map/topicref " href="topics/c_castration.dita" xtrc="topicref:5;19:48" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"><topicmeta class="- map/topicmeta "><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap" year="2022"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;11:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <created class="- topic/created " date="2022/03" xtrc="created:1;12:38" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"/>
+        </critdates></topicmeta></topicref>
+    <topicref class="- map/topicref " href="topics/c_how_to_understand_your_cat.dita" xtrc="topicref:6;20:64" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"><topicmeta class="- map/topicmeta "><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap" year="2022"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;11:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <created class="- topic/created " date="2022/03" xtrc="created:1;12:38" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"/>
+        </critdates></topicmeta></topicref>
+    <topicref class="- map/topicref " href="topics/c_feeding.dita" xtrc="topicref:7;21:45" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"><topicmeta class="- map/topicmeta "><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap" year="2022"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;11:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <created class="- topic/created " date="2022/03" xtrc="created:1;12:38" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"/>
+        </critdates></topicmeta></topicref>
+    <topicref class="- map/topicref " href="topics/c_hygiene.dita" xtrc="topicref:8;22:45" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"><topicmeta class="- map/topicmeta "><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap" year="2022"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;11:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <created class="- topic/created " date="2022/03" xtrc="created:1;12:38" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"/>
+        </critdates></topicmeta></topicref>
+    <topicref class="- map/topicref " href="topics/c_play.dita" xtrc="topicref:9;23:42" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"><topicmeta class="- map/topicmeta "><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap" year="2022"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;11:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <created class="- topic/created " date="2022/03" xtrc="created:1;12:38" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"/>
+        </critdates></topicmeta></topicref>
+    <topicref class="- map/topicref " href="topics/t_training.dita" xtrc="topicref:10;24:46" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"><topicmeta class="- map/topicmeta "><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap" year="2022"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;11:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <created class="- topic/created " date="2022/03" xtrc="created:1;12:38" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"/>
+        </critdates></topicmeta></topicref>
+    <topicref class="- map/topicref " href="topics/c_health_problems.dita" xtrc="topicref:11;25:53" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"><topicmeta class="- map/topicmeta "><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap" year="2022"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;11:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <created class="- topic/created " date="2022/03" xtrc="created:1;12:38" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"/>
+        </critdates></topicmeta></topicref>
+    <topicref class="- map/topicref " format="pdf" href="cats_user_guide.pdf" navtitle="PDF version" scope="external" xtrc="topicref:12;26:96" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"/>
+    <reltable class="- map/reltable " toc="no" xtrc="reltable:1;27:15" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+        <relheader class="- map/relheader " xtrc="relheader:1;28:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <relcolspec class="- map/relcolspec " toc="no" xtrc="relcolspec:1;29:26" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"/>
+            <relcolspec class="- map/relcolspec " toc="no" xtrc="relcolspec:2;30:26" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"/>
+        </relheader>
+        <relrow class="- map/relrow " xtrc="relrow:1;32:17" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <relcell class="- map/relcell " toc="no" xtrc="relcell:1;33:22" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+                <topicref class="- map/topicref " href="topics/c_feeding.dita" xtrc="topicref:13;34:57" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"/>
+            </relcell>
+            <relcell class="- map/relcell " toc="no" xtrc="relcell:2;36:22" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+                <topicref class="- map/topicref " href="topics/c_how_to_understand_your_cat.dita" xtrc="topicref:14;37:76" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"/>
+                <topicref class="- map/topicref " href="topics/c_feeding.dita" xtrc="topicref:15;38:57" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"/>
+                <topicref class="- map/topicref " href="topics/t_training.dita" xtrc="topicref:16;39:58" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"/>
+            </relcell>
+        </relrow>
+    </reltable>
+</map>

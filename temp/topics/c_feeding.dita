@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Kiirama\Desktop\kacper-bojakowski\temp\topics?><?workdir-uri file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/temp/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="c_zagrozenie_i_ochrona" specializations="@props/deliveryTarget" xtrc="concept:1;3:38" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/topics/c_feeding.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/topics/c_feeding.dita">Feeding</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:17" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/topics/c_feeding.dita"/><prolog class="- topic/prolog "><author class="- topic/author " xtrc="author:1;6:17" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</author><copyright class="- topic/copyright " xtrc="copyright:1;7:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <copyryear class="- topic/copyryear " xtrc="copyryear:1;8:37" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap" year="2022"/>
+            <copyrholder class="- topic/copyrholder " xtrc="copyrholder:1;9:26" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">Kacper Bojakowski</copyrholder>
+        </copyright><critdates class="- topic/critdates " xtrc="critdates:1;11:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap">
+            <created class="- topic/created " date="2022/03" xtrc="created:1;12:38" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/cats_user_guide.ditamap"/>
+        </critdates></prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;6:14" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/topics/c_feeding.dita">
+        <p class="- topic/p " xtrc="p:1;7:12" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/topics/c_feeding.dita">Cats should be fed with wet and dry cat food, at regular time intervals, twice a day,
+            with servings always too small relative to the their expectations, regardless of the
+            serving's size.</p>
+        <fig class="- topic/fig " id="fig_ktg_k35_zsb" xtrc="fig:1;10:35" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/topics/c_feeding.dita">
+            <title class="- topic/title " xtrc="title:2;11:20" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/topics/c_feeding.dita">Cats hate lemon, though.</title>
+            <image class="- topic/image " href="../images/cats_hate_lemon.jpg" id="image_ltg_k35_zsb" placement="inline" width="500px" xtrc="image:1;12:94" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/topics/c_feeding.dita">
+                <alt class="- topic/alt " xtrc="alt:1;13:22" xtrf="file:/C:/Users/Kiirama/Desktop/kacper-bojakowski/topics/c_feeding.dita">Cats hate lemon, though.</alt>
+            </image>
+        </fig>
+    </conbody>
+</concept>

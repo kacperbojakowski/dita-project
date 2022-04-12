@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_zagrozenie_i_ochrona">
+    <title>Feeding</title>
+    <shortdesc>How to feed your cat properly?</shortdesc>
+    <conbody>
+        <p>Cats should be fed with wet and dry cat food, at regular time intervals, twice a day,
+            with servings always too small relative to the their expectations, regardless of the
+            serving's size.</p>
+        <fig id="fig_ktg_k35_zsb">
+            <title>Cats hate lemon, though.</title>
+            <image href="../images/cats_hate_lemon.jpg" id="image_ltg_k35_zsb" width="500px">
+                <alt>Cats hate lemon, though.</alt>
+            </image>
+        </fig>
+    </conbody>
+</concept>

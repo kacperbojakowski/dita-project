@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_panda_wielka">
+    <title>General information</title>
+    <shortdesc>What exactly are cats?</shortdesc>
+    <conbody>
+        <p>According to <xref href="https://en.wikipedia.org/wiki/Cat" format="html"
+                scope="external">Wikipedia</xref>, the cat is a domestic species of small
+            carnivorous mammal. Many people think they own a cat, but in reality it's the other way
+            around.</p>
+        <fig id="fig_ex3_qh5_zsb">
+            <title>Cat translator using a CAT tool.</title>
+            <image href="../images/cat_tool.jpg" id="image_fx3_qh5_zsb" width="500px">
+                <alt>Cat translator using a CAT tool.</alt>
+            </image>
+        </fig>
+    </conbody>
+</concept>

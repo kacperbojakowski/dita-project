@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c_panda_wielka" path="topics/c_general_information.html"/>
+   <appContext helpID="c_wystepowanie_i_srodowisko" path="topics/c_cat_breeds.html"/>
+   <appContext helpID="c_odzywianie" path="topics/c_how_to_get_a_cat.html"/>
+   <appContext helpID="c_rozmiary_pandy_wielkiej"
+               path="topics/c_maintenance_cost.html"/>
+   <appContext helpID="tryb_zycia_pandy_wielkiej" path="topics/c_castration.html"/>
+   <appContext helpID="c_how_to_understand_your_cat"
+               path="topics/c_how_to_understand_your_cat.html"/>
+   <appContext helpID="c_zagrozenie_i_ochrona" path="topics/c_feeding.html"/>
+   <appContext helpID="c_hygiene" path="topics/c_hygiene.html"/>
+   <appContext helpID="c_logotyp_wwf" path="topics/c_play.html"/>
+   <appContext helpID="t_zapobieganie_wymieraniu_pandy_wielkiej"
+               path="topics/t_training.html"/>
+   <appContext helpID="c_health_problems" path="topics/c_health_problems.html"/>
+   <appContext helpID="c_zagrozenie_i_ochrona" path="topics/c_feeding.html"/>
+   <appContext helpID="c_how_to_understand_your_cat"
+               path="topics/c_how_to_understand_your_cat.html"/>
+   <appContext helpID="c_zagrozenie_i_ochrona" path="topics/c_feeding.html"/>
+   <appContext helpID="t_zapobieganie_wymieraniu_pandy_wielkiej"
+               path="topics/t_training.html"/>
+</map>

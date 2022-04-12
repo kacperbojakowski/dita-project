@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_zapobieganie_wymieraniu_pandy_wielkiej">
+    <title>Training</title>
+    <shortdesc>Your cat can perform tricks for a treat.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Cats can be trained through positive conditioning. Follow these steps to teach your
+                cat how to follow you to the kitchen.</p>
+        </context>
+        <steps>
+            <step importance="optional">
+                <cmd>Give your cat some food.</cmd>
+            </step>
+            <step importance="optional">
+                <cmd>Snap your fingers while performing step 1.</cmd>
+            </step>
+            <step importance="required">
+                <cmd>Snap your fingers at another time as you go to the kitchen.</cmd>
+            </step>
+        </steps>
+        <postreq id="postreq_j2c_qyt_zsb">Now observe your cat follow you to the kitchen whenever
+            you snap your fingers.</postreq>
+    </taskbody>
+</task>

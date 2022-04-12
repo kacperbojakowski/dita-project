@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Cats User Guide</title>
+    <topicmeta>
+        <author>Kacper Bojakowski</author>
+        <copyright>
+            <copyryear year="2022"/>
+            <copyrholder>Kacper Bojakowski</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2022/03"/>
+        </critdates>
+    </topicmeta>
+    <topicref href="topics/c_general_information.dita"/>
+    <topicref href="topics/c_cat_breeds.dita"/>
+    <topicref href="topics/c_how_to_get_a_cat.dita"/>
+    <topicref href="topics/c_maintenance_cost.dita"/>
+    <topicref href="topics/c_castration.dita"/>
+    <topicref href="topics/c_how_to_understand_your_cat.dita"/>
+    <topicref href="topics/c_feeding.dita"/>
+    <topicref href="topics/c_hygiene.dita"/>
+    <topicref href="topics/c_play.dita"/>
+    <topicref href="topics/t_training.dita"/>
+    <topicref href="topics/c_health_problems.dita"/>
+    <topicref href="cats_user_guide.pdf" format="pdf" navtitle="PDF version" scope="external"/>
+    <reltable>
+        <relheader>
+            <relcolspec/>
+            <relcolspec/>
+        </relheader>
+        <relrow>
+            <relcell>
+                <topicref href="topics/c_feeding.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/c_how_to_understand_your_cat.dita"/>
+                <topicref href="topics/c_feeding.dita"/>
+                <topicref href="topics/t_training.dita"/>
+            </relcell>
+        </relrow>
+    </reltable>
+</map>
